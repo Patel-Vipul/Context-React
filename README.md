@@ -1,16 +1,49 @@
-# React + Vite
+# ⚡ Context-React — Naruto Card Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live%20Preview-Online-success?style=for-the-badge)](https://patel-vipul.github.io/Context-React/)
+[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.1-blueviolet?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-Build-lightyellow?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌀 About the Project
 
-## React Compiler
+**Context-React** is a mini React project made to practice the `useContext()` hook.  
+It includes a **Naruto-themed character card** with interactive styles, Tailwind v4.1 support, and dark mode functionality.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+You can toggle themes, see styled character info, and experience context management in action!
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Features
+
+- ⚡ Built with **React 18 + Vite**
+- 🎨 Styled with **Tailwind CSS v4.1**
+- 🌗 **Dark Mode Toggle** using Context API
+- 🌀 Anime-inspired UI (Naruto Uzumaki Card)
+- 💥 Responsive and animated layout
+- 🚀 Deployed on GitHub Pages
+
+
+---
+
+## 🚀 Live Demo
+
+👉 [**Click Here to View Live**](https://patel-vipul.github.io/Context-React/)
+
+---
+
+## 🧠 Learning Purpose
+
+This project was built for learning:
+- How to create and use a **React Context Provider**
+- How to share global state across components
+- How to apply **dark/light themes** dynamically
+- How to deploy a Vite React project on **GitHub Pages**
+
+---
+
+
+## 🧩 Folder Structure
+
