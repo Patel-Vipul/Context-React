@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@keyframes chakra-glow {
+  0%, 100% { box-shadow: 0 0 10px #f97316, 0 0 20px #fb923c; }
+  50% { box-shadow: 0 0 20px #fb923c, 0 0 40px #fbbf24; }
+}
+
+.animate-chakra {
+  animation: chakra-glow 2s ease-in-out infinite alternate;
+}
